@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.9" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+    <SyntheticProperty name="generateCenter" type="boolean" value="false"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="102" alignment="1" attributes="0">
+                      <Group type="103" groupAlignment="1" attributes="0">
+                          <Component id="jsaodelete" min="-2" pref="50" max="-2" attributes="0"/>
+                          <Component id="jsaosinus" min="-2" pref="50" max="-2" attributes="0"/>
+                          <Component id="jsaonawiasy" min="-2" pref="50" max="-2" attributes="0"/>
+                      </Group>
+                      <EmptySpace pref="12" max="32767" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" alignment="1" attributes="0">
+                              <Component id="jsaocosinus" min="-2" pref="50" max="-2" attributes="0"/>
+                              <EmptySpace type="separate" max="-2" attributes="0"/>
+                              <Component id="jsaotangens" min="-2" pref="50" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" alignment="1" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="jsaopierwiastek" min="-2" pref="50" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jsaododrugiej" min="-2" pref="50" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" attributes="0">
+                                  <Component id="jsaopi" min="-2" pref="50" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="jsaodominuspierwszej" min="-2" pref="50" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                      </Group>
+                      <EmptySpace type="separate" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Group type="102" attributes="0">
+                              <Component id="jsaocotangens" min="-2" pref="50" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                              <Component id="jsaoodpowiedz" min="-2" pref="50" max="-2" attributes="0"/>
+                          </Group>
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Group type="102" attributes="0">
+                                  <Component id="jsaorazydziesiec" min="-2" pref="50" max="-2" attributes="0"/>
+                                  <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                                  <Component id="jsaoplus" min="-2" pref="50" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="1" attributes="0">
+                                  <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                                  <Component id="jsaosilnia" min="-2" pref="50" max="-2" attributes="0"/>
+                              </Group>
+                          </Group>
+                          <Group type="102" attributes="0">
+                              <Component id="jsaodotrzeciej" min="-2" pref="50" max="-2" attributes="0"/>
+                              <EmptySpace min="-2" pref="24" max="-2" attributes="0"/>
+                              <Component id="jsaomnozenie" min="-2" pref="50" max="-2" attributes="0"/>
+                          </Group>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <EmptySpace min="-2" pref="140" max="-2" attributes="0"/>
+                      <Group type="103" groupAlignment="0" attributes="0">
+                          <Component id="jsaoliczbenki" alignment="1" max="32767" attributes="0"/>
+                          <Component id="jsaoliczbunki" max="32767" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="jsaominus" min="-2" pref="50" max="-2" attributes="0"/>
+                      <Component id="jsaodziel" alignment="1" min="-2" pref="50" max="-2" attributes="0"/>
+                  </Group>
+                  <Group type="102" alignment="1" attributes="0">
+                      <Component id="jsaoprocenty" min="-2" pref="50" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
+                  </Group>
+                  <Component id="jsaoznakrownosci" min="-2" pref="50" max="-2" attributes="0"/>
+              </Group>
+          </Group>
+          <Group type="102" attributes="0">
+              <EmptySpace min="-2" pref="171" max="-2" attributes="0"/>
+              <Component id="jsaoekran" min="-2" max="-2" attributes="0"/>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace min="-2" pref="18" max="-2" attributes="0"/>
+              <Component id="jsaoekran" min="-2" max="-2" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jsaoliczbunki" pref="36" max="32767" attributes="0"/>
+              <EmptySpace type="separate" max="-2" attributes="0"/>
+              <Component id="jsaoliczbenki" min="-2" pref="34" max="-2" attributes="0"/>
+              <EmptySpace pref="39" max="32767" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jsaoprocenty" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaosilnia" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jsaodziel" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaomnozenie" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaodotrzeciej" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaododrugiej" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaopierwiastek" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaonawiasy" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace min="-2" pref="7" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="jsaominus" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaoplus" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaorazydziesiec" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaodominuspierwszej" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaopi" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaodelete" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="jsaoznakrownosci" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="jsaoodpowiedz" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="3" attributes="0">
+                      <Component id="jsaocotangens" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jsaotangens" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jsaocosinus" alignment="3" min="-2" max="-2" attributes="0"/>
+                      <Component id="jsaosinus" alignment="3" min="-2" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <EmptySpace min="-2" pref="79" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="jsaoekran">
+      <Properties>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaosinus">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="sin"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaosinusActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaotangens">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="tg"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaotangensActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaoznakrownosci">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="="/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaoznakrownosciActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaocotangens">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="sansserif" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="ctg"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaocotangensActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaoodpowiedz">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="sansserif" size="11" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="Ans"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaoodpowiedzActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaocosinus">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="cos"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaocosinusActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaoplus">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="+"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaoplusActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaodelete">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="sansserif" size="11" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="DEL"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaodeleteActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaomnozenie">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="*"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaomnozenieActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaorazydziesiec">
+      <Properties>
+        <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
+          <Font name="sansserif" size="12" style="0"/>
+        </Property>
+        <Property name="text" type="java.lang.String" value="x10"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaorazydziesiecActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaodominuspierwszej">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="x-&#xb9;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaodominuspierwszejActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaopi">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x3c0;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaopiActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaominus">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="-"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaominusActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaopierwiastek">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="&#x221a;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaopierwiastekActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaonawiasy">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="()"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaonawiasyActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaosilnia">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="!"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaosilniaActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaodotrzeciej">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="x&#xb3;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaodotrzeciejActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaododrugiej">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="x&#xb2;"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaododrugiejActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaodziel">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="/"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaodzielActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JButton" name="jsaoprocenty">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="%"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jsaoprocentyActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jsaoliczbunki">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+        <Property name="minimumSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[70, 30]"/>
+        </Property>
+        <Property name="preferredSize" type="java.awt.Dimension" editor="org.netbeans.beaninfo.editors.DimensionEditor">
+          <Dimension value="[70, 30]"/>
+        </Property>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JTextField" name="jsaoliczbenki">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="0"/>
+        <Property name="toolTipText" type="java.lang.String" value=""/>
+      </Properties>
+    </Component>
+  </SubComponents>
+</Form>
